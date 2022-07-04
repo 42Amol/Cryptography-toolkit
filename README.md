@@ -1,3 +1,3 @@
-Cryptography related programs and functions.
+#Cryptography related programs and functions.
 
-All code is written by myself except if specified.
+*All code is written by myself except if specified.*
